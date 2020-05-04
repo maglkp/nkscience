@@ -1,0 +1,10 @@
+canvas {
+    border: 1px solid #111;
+    /*background-image: linear-gradient(-45deg, #6b82e9 0%, #8c5dbb 100%);*/
+    background-image: linear-gradient(-45deg, #eeeeee 0%, #dfdfdf 100%);
+    margin-left: 500px;
+
+    /*margin: auto;*/
+    /*width: 60%;  */
+    /*padding: 10px;*/
+}
